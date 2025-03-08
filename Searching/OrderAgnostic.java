@@ -22,17 +22,21 @@ class Main{
             end=mid-1;
         }
        }
-
-
-
        if(arr[mid]==target){
         System.out.println(mid);
+        break;
        }
+
+
+       
      }
+
+     
+
     }
     public static void main(String[] args) {
         int arr[]={6,5,4,3,2,1};
-        int target=1;
+        int target=20;
 
 
         BinarySearch(arr,target);
