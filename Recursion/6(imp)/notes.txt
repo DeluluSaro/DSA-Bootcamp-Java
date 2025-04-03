@@ -1,0 +1,3 @@
+When do we go back to backtracking:
+
+And the answer is found that is the target is found that time go back to the previous recursion call make it as a true so that the backtracking will happen
