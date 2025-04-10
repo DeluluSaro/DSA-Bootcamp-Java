@@ -1,0 +1,12 @@
+What is Abstract class?(there is no body for the parent class)
+We know in Java there is no allowance for multiple inheritance so he should somehow Abstarction (OOPS) in Java in order to use it there are 2 ways 1. to use abstract class and another to use 2. interfaces in Java.
+Abstract classes is not like a regular classes where  the parent class only have the body and functions that need to be  overrided by their children classes 
+
+
+* WE CANNOT CREATE OBJECT OF THE ABSTRACT CLASS
+* NO ABSTRACT CONSTRUCTORS ,NO STATIC METHOUDS
+
+For the children class:
+There are two ways to use abstract classes in children 
+ 1. to declare the child as an abstract class
+ 2. another way is to over write the method that has been done in the the parent class(use extend keyword).
