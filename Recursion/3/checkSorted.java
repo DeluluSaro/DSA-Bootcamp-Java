@@ -8,7 +8,7 @@ class checkSorted{
         if(num==arr.length-1){
             return true;
         }
-
+        
 
         return arr[num]<arr[num+1] && sorted(arr, num+1);
     }

@@ -1,4 +1,4 @@
-
+package Searching;
 public class FirstandLast {
     public static int bSearch(int arr[], int target, boolean isLeft) {
         int ans = -1;

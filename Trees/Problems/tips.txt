@@ -1,0 +1,15 @@
+BFS-  should use level-order-traversal 
+when to use it :
+1. When answer lies near root node
+2. When you are asked to search by level
+
+
+
+
+BFS :level - order traversal using queue or deque (rarely)
+
+DFS :pre-order(root,left,right) - use when you want to do something at a particular level and move down
+,in-order(left,root,right) - use it in binary search tree to get the lowest values  out of it  
+,post-order(left-right-root)- use when u delete a tree left side first and the right then root (perform operations on root at last)
+
+
